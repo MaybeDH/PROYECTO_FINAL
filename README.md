@@ -89,7 +89,7 @@ Para probar este proyecto, ejecute el siguiente comando:
 ```bash
   yarn start
 ```
-## Colaboradores
+##  🚀 Colaboradores
 
 - [@Lucas Lipa](https://github.com/LIPALM)
 - [@Alejandro Mamani](https://github.com/fulcrumAle)
