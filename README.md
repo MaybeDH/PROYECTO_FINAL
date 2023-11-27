@@ -1,11 +1,9 @@
 # PROYECTO FINAL --> Biblioteca
 
-![Estado del Proyecto](https://img.shields.io/badge/Estado-del%20Proyecto-En%20Desarrollo-yellow)
-![Licencia](https://img.shields.io/badge/Licencia-MIT-green)
 
 ## Descripción
 
-Bienvenido a nuestra Biblioteca, una aplicación web diseñada para satisfacer las necesidades de gestión y exploración de una biblioteca.
+Bienvenido a nuestra Biblioteca, una aplicación web diseñada para satisfacer las necesidades de exploración de una biblioteca, teniendo en cuenta las indicaciones de la docente.
 
 ## Requerimientos Funcionales
 
