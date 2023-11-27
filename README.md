@@ -91,5 +91,5 @@ Para probar este proyecto, ejecute el siguiente comando:
 
 - [@Lucas Lipa](https://github.com/LIPALM)
 - [@Alejandro Mamani](https://github.com/fulcrumAle)
-- [@Raziel Azqui](https://github.com/staraziel4)
+- [@Raziel Ascui](https://github.com/staraziel4)
 - [@Dayana Cano](https://github.com/MaybeDH)
